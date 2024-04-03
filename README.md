@@ -8,9 +8,9 @@ Name - Aaryan vhanagade
 - 🔭 I’m currently working on ...github
 - 🌱 I’m currently learning ...html and csss
 - 👯 I’m looking to collaborate on ..github.
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ...others
 - 💬 Ask me about ... im from jondhale second year aiml
 - 📫 How to reach me: .@ insta  @aryan_vhanagade_  , twitter @ aryanvhanagade23 ,  linkdin @ aryanvhanagade..
-- 😄 Pronouns: smiw...
+- 😄 Pronouns: smile..
 - ⚡ Fun fact: ..ccool.
 -->
